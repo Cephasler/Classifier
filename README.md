@@ -15,4 +15,4 @@ Jupyter Notebook:
     1. We access another set of images that was not previously used to train the model and convert them into arrays and labels
     2. This test set is then evaluated using the model that was trained in the previous section. 
     
-    The model achieved 75.75% accuracy on the test set compared to the 94.10% it scores for the training set that it was trained on.
+The model achieved 75.75% accuracy on the test set compared to the 94.10% it scores for the training set that it was trained on.
